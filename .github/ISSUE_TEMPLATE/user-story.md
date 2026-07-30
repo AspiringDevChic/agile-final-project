@@ -23,10 +23,7 @@ Then [a specific measurable outcome is observed]
 ```
 
 ### Estimates
-- [ ] Story Points: [1 / 2 / 3 / 5 / 8]
+- Story Points: 3
 
 ### Labels
-- [ ] enhancement
-- [ ] technical debt
-- [ ] bug
-
+- enhancement
